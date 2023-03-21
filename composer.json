@@ -1,0 +1,15 @@
+Define your dependencies.
+{
+    "name": "weilongyun/com1",
+    "description": "test01",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "weilongyun",
+            "email": "weilongyun@360.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
